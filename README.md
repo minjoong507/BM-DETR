@@ -8,7 +8,7 @@ PyTorch Implementation of paper:
 
 **[Overcoming Weak Visual-Textual Alignment for Video Moment Retrieval](https://arxiv.org/abs/2306.02728)**
 
-[Minjoon Jung](https://minjoong507.github.io/), [Youwon Jang](https://github.com/greeksharifa), Seongho Choi, Joochan Kim, [Jin-Hwa Kim](http://wityworks.com/), [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/)
+[Minjoon Jung](https://minjoong507.github.io/), [Youwon Jang](https://github.com/greeksharifa), Seongho Choi, [Joochan Kim](https://tikatoka.github.io) [Jin-Hwa Kim](http://wityworks.com/), [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/)
 ## Updates
 * [Dec, 2023] Our codes has been released.
 * [Nov, 2023] Our preprint has been updated on arxiv.
