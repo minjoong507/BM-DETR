@@ -1,4 +1,4 @@
-# Overcoming Weak Visual-Textual Alignment for Video Moment Retrieval
+# Background-aware Moment Detection for Video Moment Retrieval
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/overcoming-weak-visual-textual-alignment-for/moment-retrieval-on-charades-sta)](https://paperswithcode.com/sota/moment-retrieval-on-charades-sta?p=overcoming-weak-visual-textual-alignment-for)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/overcoming-weak-visual-textual-alignment-for/moment-retrieval-on-qvhighlights)](https://paperswithcode.com/sota/moment-retrieval-on-qvhighlights?p=overcoming-weak-visual-textual-alignment-for)
 
@@ -6,7 +6,7 @@
 
 PyTorch Implementation of paper:
 
-**[Overcoming Weak Visual-Textual Alignment for Video Moment Retrieval](https://arxiv.org/abs/2306.02728)**
+**[Background-aware Moment Detection for Video Moment Retrieval](https://arxiv.org/abs/2306.02728)**
 
 [Minjoon Jung](https://minjoong507.github.io/), [Youwon Jang](https://github.com/greeksharifa), Seongho Choi, [Joochan Kim](https://tikatoka.github.io) [Jin-Hwa Kim](http://wityworks.com/), [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/)
 ## Updates
