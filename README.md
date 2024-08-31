@@ -10,8 +10,9 @@ PyTorch Implementation of paper:
 
 [Minjoon Jung](https://minjoong507.github.io/), [Youwon Jang](https://github.com/greeksharifa), Seongho Choi, [Joochan Kim](https://tikatoka.github.io) [Jin-Hwa Kim](http://wityworks.com/), [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/)
 ## Updates
-* [Dec, 2023] Our codes has been released.
-* [Nov, 2023] Our preprint has been updated on arxiv.
+* [Aug, 2024] Our paper has been accepted by WACV 2025.
+* [Dec, 2023] Our codes have been released.
+* [Nov, 2023] Our preprint has been updated on arXiv.
 
 ## Requirements
 
@@ -21,7 +22,7 @@ Please refer to [here](data/README.md).
 
 To install dependencies:
 
-We recommend creating conda environment and installing all the dependencies as follows:
+We recommend creating a conda environment and installing all the dependencies as follows:
 ```
 # create conda env
 conda create --name bm_detr python=3.9
@@ -52,7 +53,7 @@ If you have downloaded the features and checkpoints, please check the `opt.json`
 
 The reproduced performance may differ slightly from the performance reported in the paper.
 
-More pre-trained model coming soon, so stay tuned!
+More pre-trained models coming soon, so stay tuned!
 
 ### Training
 
