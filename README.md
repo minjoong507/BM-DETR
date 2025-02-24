@@ -98,14 +98,13 @@ We used resources from [MDETR](https://github.com/jayleicn/moment_detr) and [DAB
 ## Citation
 If you find our project useful in your work, please consider citing our paper.
 ```
-@misc{jung2024bmdetr,
-      title={Background-aware Moment Detection for Video Moment Retrieval}, 
-      author={Minjoon Jung and Youwon Jang and Seongho Choi and Joochan Kim and Jin-Hwa Kim and Byoung-Tak Zhang},
-      year={2024},
-      eprint={2306.02728},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2306.02728}, 
+@InProceedings{Jung_2025_WACV,
+    author    = {Jung, Minjoon and Jang, Youwon and Choi, Seongho and Kim, Joochan and Kim, Jin-Hwa and Zhang, Byoung-Tak},
+    title     = {Background-Aware Moment Detection for Video Moment Retrieval},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {8575-8585}
 }
 ```
 
